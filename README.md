@@ -8,15 +8,15 @@
 
 In love with Data Science and future Data Scientist 
 
-**Conhecimentos:** Python para análise de dados
+**Conhecimentos:** Python for data analysis
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/gustavo-paulino-8597a1184/)
 
 
 
-## Projetos:
-Veja os meus projetos:
+## Projects:
+My Projects:
 
 
 ---
