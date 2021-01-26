@@ -4,7 +4,7 @@
 </p>
 
 # Gustavo Paulino
-<sub>*Data Science Intern * at Dana Incorporated Center</sub>
+<sub>*Data Science Intern * at Dana Incorporated </sub>
 
 In love with Data Science and future Data Scientist 
 
