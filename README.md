@@ -4,9 +4,9 @@
 </p>
 
 # Gustavo Paulino
-<sub>*Lead Data Scientist* at Space Operations Center</sub>
+<sub>*Data Science Intern * at Dana Incorporated Center</sub>
 
-Estudante de Data Science e em breve um ótimo cientista de dados 
+In love with Data Science and future Data Scientist 
 
 **Conhecimentos:** Python para análise de dados
 
