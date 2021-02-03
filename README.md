@@ -17,7 +17,7 @@ Atualmente estudando ciência de dados em  Sigmoidal
 
 
 ## Projects:
-**Analysis Airbnb New York** : https://bit.ly/3qWODcV
+**Analise Airbnb New York** : https://bit.ly/3qWODcV
 
 
 
