@@ -6,9 +6,10 @@
 # Gustavo Paulino
 <sub>*Data Science Intern * at Dana Incorporated </sub>
 
-In love with Data Science and future Data Scientist 
+Estudande de Sistemas de informação na universidade Anhembi Morumbi. 
+Atualmente estudando ciência de dados em  Sigmoidal
 
-**Knowledges:** Python for data analysis
+**Knowledges:** Python para análise e tratamento de dados.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/gustavo-paulino-8597a1184/)
