@@ -6,7 +6,9 @@
 # Gustavo Paulino
 <sub>*Data Science Intern * at Dana Incorporated </sub>
 
+
 Estudande de Sistemas de informação na universidade Anhembi Morumbi. 
+
 Atualmente estudando ciência de dados em  Sigmoidal
 
 **Knowledges:** Python para análise e tratamento de dados.
@@ -18,6 +20,7 @@ Atualmente estudando ciência de dados em  Sigmoidal
 
 ## Projects:
 **Analise Airbnb New York** : https://bit.ly/3qWODcV
+
 **Analise dos Best Sellings da Amazon de 2009-2019** : https://bit.ly/2YIC2hr
 
 
