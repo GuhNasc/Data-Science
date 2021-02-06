@@ -11,7 +11,7 @@ Estudande de Sistemas de informação na universidade Anhembi Morumbi.
 
 Atualmente estudando ciência de dados em  Sigmoidal
 
-**Knowledges:** Python para análise e tratamento de dados.
+**Conhecimentos:** Python para análise e tratamento de dados.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/gustavo-paulino-8597a1184/)
