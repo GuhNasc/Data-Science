@@ -18,7 +18,7 @@ Atualmente estudando ciência de dados em  Sigmoidal
 
 
 
-## Projects:
+## Projetos:
 **Analise Airbnb New York** : https://bit.ly/3qWODcV
 
 **Analise dos Best Sellings Books da Amazon de 2009-2019** : https://bit.ly/2YIC2hr
