@@ -23,6 +23,8 @@ Atualmente estudando ciência de dados em  Sigmoidal
 
 **Analise dos Best Sellings Books da Amazon de 2009-2019** : https://bit.ly/2YIC2hr
 
+**Analise dos crimes do Rio De Janeiro** : https://bit.ly/30cY1Oc
+
 
 ---
 
