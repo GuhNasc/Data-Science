@@ -9,10 +9,10 @@
 
 Cursando de Sistemas de informação na universidade Anhembi Morumbi. Atualmente estou no 5°semestre.
 Meu maior objetivo é se tonar um cientista de dados cada vez melhor , para isso estudo e pratico todo dia.
+Atualmente estudando ciência de dados em  Sigmoidal.
 
 **Hobbies:** Jogar , ler , assistir filmes e séries 
 
-Atualmente estudando ciência de dados em  Sigmoidal
 
 **Conhecimentos:** Python para análise e tratamento de dados , Visualização de gráficos e Machine Learning.
 
