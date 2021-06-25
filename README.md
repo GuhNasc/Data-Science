@@ -7,9 +7,8 @@
 <sub>*Data Science Intern * at Dana Incorporated </sub>
 
 
-Cursando de Sistemas de informação na universidade Anhembi Morumbi. Atualmente estou no 5°semestre.
-Meu maior objetivo é se tonar um cientista de dados cada vez melhor , para isso estudo e pratico todo dia.
-Atualmente estudando ciência de dados em  Sigmoidal.
+Olá , meu nome é Gustavo , sou uma pessoa muito criativa e empolgada com novas tecnologias, atualmente estou estudando Data Science. 
+Estou estudando para ser o melhor profissional na área.
 
 **Hobbies:** Jogar , ler , assistir filmes e séries 
 
