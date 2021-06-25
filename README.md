@@ -28,6 +28,8 @@ Atualmente estudando ciência de dados em  Sigmoidal.
 
 **Analise dos crimes do Rio De Janeiro** : https://bit.ly/3c5vLTl
 
+**Analise do coronavírus no Brasil e no mundo** : https://bit.ly/3gQbrsJ
+
 
 ---
 
