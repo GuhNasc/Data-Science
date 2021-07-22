@@ -7,8 +7,8 @@
 <sub>*Data Science Intern * at Dana Incorporated </sub>
 
 
-Olá , meu nome é Gustavo , sou uma pessoa muito criativa e empolgada com novas tecnologias, atualmente estou estudando Data Science. 
-Estou estudando para ser o melhor profissional na área.
+Olá , meu nome é Gustavo sou muito criativo e empolgado com novas tecnologias, principalmente com a área de Data Science. 
+
 
 **Hobbies:** Jogar , ler , assistir filmes e séries 
 
