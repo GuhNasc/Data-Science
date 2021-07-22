@@ -4,7 +4,7 @@
 </p>
 
 # Gustavo Paulino
-<sub>*Data Science Intern * at Dana Incorporated </sub>
+<sub> **Data Science Intern** at Dana Incorporated </sub>
 
 
 Olá , meu nome é Gustavo sou muito criativo e empolgado com novas tecnologias, principalmente com a área de Data Science. 
