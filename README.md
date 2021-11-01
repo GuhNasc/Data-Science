@@ -21,13 +21,15 @@ Olá , meu nome é Gustavo sou muito criativo e empolgado com novas tecnologias,
 
 
 ## Projetos:
-**Analise Airbnb New York** : https://bit.ly/3qWODcV
+**Análise Airbnb New York** : https://bit.ly/3qWODcV
 
-**Analise dos Best Sellings Books da Amazon de 2009-2019** : https://bit.ly/2YIC2hr
+**Análise dos Best Sellings Books da Amazon de 2009-2019** : https://bit.ly/2YIC2hr
 
-**Analise dos crimes do Rio De Janeiro** : https://bit.ly/3c5vLTl
+**Análise dos crimes do Rio De Janeiro** : https://bit.ly/3c5vLTl
 
-**Analise do coronavírus no Brasil e no mundo** : https://bit.ly/3gQbrsJ
+**Análise do coronavírus no Brasil e no mundo** : https://bit.ly/3gQbrsJ
+
+**Análise dos alugueis das cidades brasileiras** : https://bit.ly/3jRINZt 
 
 
 ---
